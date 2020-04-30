@@ -11,6 +11,7 @@ package petridish;
  * its maximum level.
  *
  * See https://www.khanacademy.org/science/biology/ecology/population-growth-and-regulation/a/exponential-logistic-growth
+ *
  */
 public class LogisticGrowth implements GrowthStrategy {
     // Number of organisms per time unit
